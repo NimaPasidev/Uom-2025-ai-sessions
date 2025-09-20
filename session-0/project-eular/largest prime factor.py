@@ -19,3 +19,6 @@ def largest_prime_factor(number):
     return largest_prime
 
 print(largest_prime_factor(600851475143))
+
+# Time Complexity  = O(sqrt(number))
+# Space Complexity = O(1)
